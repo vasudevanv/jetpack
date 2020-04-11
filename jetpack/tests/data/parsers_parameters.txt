@@ -1,0 +1,7 @@
+# Parameter file - this is a comment line
+t_degree = 30                #  Celsius 
+p_pascal = 101325            #  Pascal
+# Another comment line and following line is blank
+
+rh_percent = 70              #  Relative humidity in percentage
+
