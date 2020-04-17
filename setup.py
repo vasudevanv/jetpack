@@ -54,7 +54,6 @@ setuptools.setup(
         'Operating System :: POSIX :: Linux',
     ],
 
-    
     packages=setuptools.find_packages(),
     package_data = {'jetpack': ['data/*'], }, 
 

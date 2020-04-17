@@ -4,3 +4,4 @@ __pycache__
 thumbs.db
 *.pyc
 *.vscode
+.ipynb_checkpoints
